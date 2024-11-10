@@ -8,6 +8,7 @@ package com.mycompany.lab._assignment;
  *
  * @author mudra
  */
+//Initial Setup and Database Connection
 
 import utils.DatabaseUtils;
 import javax.swing.SwingUtilities;
