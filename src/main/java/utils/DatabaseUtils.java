@@ -1,3 +1,5 @@
+//Initial Setup and Database Connection 
+//Implemented Basic CRUD Operations
 package utils;
 
 import models.Product;
