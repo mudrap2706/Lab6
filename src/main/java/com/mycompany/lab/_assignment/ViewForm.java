@@ -1,7 +1,7 @@
 /*viewform 
 //Creates View page 
 //JTable Component for Data Viewing
-//Data Update and Delete Functionality
+//Data Update and Delete Functionalit
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
